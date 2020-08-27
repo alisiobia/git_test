@@ -1,0 +1,1 @@
+This is amara's first git project
